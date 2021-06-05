@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1622873518918,
-  "index": "/index.html",
+  "timestamp": 1622873821852,
+  "index": "https://syamsagarreddy.github.io/pwatest/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "/favicon.ico",
-        "/index.html",
-        "/main.99ba63e35d8271a1763f.js",
-        "/manifest.webmanifest",
-        "/polyfills.ddd468c8c0a1bf31f68a.js",
-        "/runtime.372ec9e6a2b21940e124.js",
-        "/styles.31d6cfe0d16ae931b73c.css"
+        "https://syamsagarreddy.github.io/pwatest/favicon.ico",
+        "https://syamsagarreddy.github.io/pwatest/index.html",
+        "https://syamsagarreddy.github.io/pwatest/main.99ba63e35d8271a1763f.js",
+        "https://syamsagarreddy.github.io/pwatest/manifest.webmanifest",
+        "https://syamsagarreddy.github.io/pwatest/polyfills.ddd468c8c0a1bf31f68a.js",
+        "https://syamsagarreddy.github.io/pwatest/runtime.372ec9e6a2b21940e124.js",
+        "https://syamsagarreddy.github.io/pwatest/styles.31d6cfe0d16ae931b73c.css"
       ],
       "patterns": []
     },
@@ -29,35 +29,35 @@
         "ignoreVary": true
       },
       "urls": [
-        "/assets/icons/icon-128x128.png",
-        "/assets/icons/icon-144x144.png",
-        "/assets/icons/icon-152x152.png",
-        "/assets/icons/icon-192x192.png",
-        "/assets/icons/icon-384x384.png",
-        "/assets/icons/icon-512x512.png",
-        "/assets/icons/icon-72x72.png",
-        "/assets/icons/icon-96x96.png"
+        "https://syamsagarreddy.github.io/pwatest/assets/icons/icon-128x128.png",
+        "https://syamsagarreddy.github.io/pwatest/assets/icons/icon-144x144.png",
+        "https://syamsagarreddy.github.io/pwatest/assets/icons/icon-152x152.png",
+        "https://syamsagarreddy.github.io/pwatest/assets/icons/icon-192x192.png",
+        "https://syamsagarreddy.github.io/pwatest/assets/icons/icon-384x384.png",
+        "https://syamsagarreddy.github.io/pwatest/assets/icons/icon-512x512.png",
+        "https://syamsagarreddy.github.io/pwatest/assets/icons/icon-72x72.png",
+        "https://syamsagarreddy.github.io/pwatest/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "4e311e6650dd0fdd6ae09600d594449d4dc521b3",
-    "/main.99ba63e35d8271a1763f.js": "0426f371b167ba85d5c403d5437089dc5eea86f8",
-    "/manifest.webmanifest": "1fa7a8d25bff48f999db47766c7c508f3f550fd4",
-    "/polyfills.ddd468c8c0a1bf31f68a.js": "b1f53746cc050d4864384f13cb3af74fd5c8799e",
-    "/runtime.372ec9e6a2b21940e124.js": "005b34861368ed54c273744e531205d8039a88a1",
-    "/styles.31d6cfe0d16ae931b73c.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "https://syamsagarreddy.github.io/pwatest/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://syamsagarreddy.github.io/pwatest/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://syamsagarreddy.github.io/pwatest/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://syamsagarreddy.github.io/pwatest/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://syamsagarreddy.github.io/pwatest/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://syamsagarreddy.github.io/pwatest/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://syamsagarreddy.github.io/pwatest/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://syamsagarreddy.github.io/pwatest/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://syamsagarreddy.github.io/pwatest/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://syamsagarreddy.github.io/pwatest/index.html": "07827e51cc0c99546f23729464794a808bd1a328",
+    "https://syamsagarreddy.github.io/pwatest/main.99ba63e35d8271a1763f.js": "0426f371b167ba85d5c403d5437089dc5eea86f8",
+    "https://syamsagarreddy.github.io/pwatest/manifest.webmanifest": "1fa7a8d25bff48f999db47766c7c508f3f550fd4",
+    "https://syamsagarreddy.github.io/pwatest/polyfills.ddd468c8c0a1bf31f68a.js": "b1f53746cc050d4864384f13cb3af74fd5c8799e",
+    "https://syamsagarreddy.github.io/pwatest/runtime.372ec9e6a2b21940e124.js": "005b34861368ed54c273744e531205d8039a88a1",
+    "https://syamsagarreddy.github.io/pwatest/styles.31d6cfe0d16ae931b73c.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
   },
   "navigationUrls": [
     {
